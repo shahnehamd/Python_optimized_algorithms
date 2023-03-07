@@ -12,4 +12,3 @@ for i in range(1,len(A)):
         print(max2)
         max2 = A[i]
 print(max2)
-#not for([-1,-8,-9,-2])
